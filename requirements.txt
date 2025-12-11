@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+aiofiles
+python-multipart
+ffmpeg-python
+requests
+sqlalchemy
+aiohttp
