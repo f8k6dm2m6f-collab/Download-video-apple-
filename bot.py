@@ -5,7 +5,7 @@ import asyncio
 import os
 
 API_URL = "http://localhost:8080"   # URL твого FastAPI
-BOT_TOKEN = "ВАШ_TELEGRAM_TOKEN"    # вставиш сюди свій токен
+BOT_TOKEN = "ВАШ_TELEGRAM_TOKEN"    # 8511917457:AAGPaOBZPcdGVB2GA4w_MgbEbJ29tIEOqME
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
